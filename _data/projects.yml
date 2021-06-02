@@ -25,6 +25,7 @@
 - name: Family Bank
   descr: "A financial playground utilized to teach dependents about money before money matters."
   demo: https://play.google.com/store/apps/details?id=nscad.ad430_5216.family_bank_app&hl=en_US&gl=US
+  tags:  
     - tag: Java
     - tag: SQLlite3
     - tag: Android
