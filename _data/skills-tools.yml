@@ -11,26 +11,38 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
+- name: NetBeans
   weight: 4
+
+- name: Azure Resource Manager
+  weight: 2
+
+- name: AWS CloudFormation
+  weight: 2
+
+- name: Terraform
+  weight: 2
+
+- name: Visual Studio 2019
+  weight: 3
 
 - name: VS Code
-  weight: 3
+  weight: 4
+
+- name: Android Stuio
+  weight: 4
 
 - name: Postman
-  weight: 4
+  weight: 2
+
+- name: Swaggerhub
+  weight: 3
+
+- name: Apache Maven
+  weight: 2
+
+- name: Apache Ant
+  weight: 2
+
+- name: Gradle
+  weight: 3
