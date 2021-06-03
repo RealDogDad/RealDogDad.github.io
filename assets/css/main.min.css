@@ -65,8 +65,7 @@ a:hover {
     text-align: justify;
 }
 .neumorphism-button {
-    background: linear-gradient(145deg, hsla(240, 2%, 40%, 0.15) 15%, rgba(33, 33, 33, 0.4) 80%);
-    box-shadow: -4px -3px 2px 0 hsla(0, 0%, 98%, 0.13), 4px 4px 2px 0 rgba(0, 0, 0, 0.4);
+    box-shadow: inset 2px 2px 4px #3a3747, inset -2px -2px 4px #4e4a60;
 }
 .neumorphism-card {
     box-shadow: inset 2px 2px 4px #3a3747, inset -2px -2px 4px #4e4a60;
@@ -207,7 +206,7 @@ a:hover {
 }
 .landing-icons .social-link:hover .circle {
     animation: b 1s ease-in-out forwards, d 1s linear forwards;
-    fill: #e3dfff;
+    fill: #937666;
     fill-opacity: 1;
 }
 .landing-icons .social-link:hover .social-svg {
@@ -473,7 +472,7 @@ a:hover {
     animation: h 1s infinite alternate;
 }
 .contact-icons .social-link:hover .social-svg {
-    fill: #e7e3ff;
+    fill: #d3c0cd;
 }
 .contact-icons .black:hover .social-svg {
     fill: #000;
