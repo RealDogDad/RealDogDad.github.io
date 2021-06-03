@@ -387,7 +387,7 @@ a:hover {
 }
 .timeline-wrapper .flag span:after {
     content: "\226B";
-    color: #d3c0cd;
+    color: #b19994;
     position: absolute;
     opacity: 0;
     right: -1rem;

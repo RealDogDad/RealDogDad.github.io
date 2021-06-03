@@ -16,9 +16,9 @@ username: Brandan Foster
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Applications Developer
 typing_text_1: Mountain Biker
-typing_text_2: Dog Dad
+typing_text_2: USMC Veteran
 typing_text_3: PC Gamer
-typing_text_4: Life Long Learner
+typing_text_4: Dog Dad
 # email: Your E-Mail address for the email button.
 email: brandan@getfoster.net
 # For every social button you want to display, set your username or userid
@@ -36,9 +36,9 @@ twitter_username: Real_Dog_Dad
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Who am I?
+about_me_title: RealDogDad
 # about_me_description: This will be displayed under the title.
-about_me_description: A USMC Veteran and recently graduated Applications Developer with a fascination with cloud technologies.
+about_me_description: is all of the above plus some. He loves his truck, camping and bonfires. If you can find him in his basement obsessively coding his latest project, tweaking or tuning his bike or pc, he is probably out in the woods walking forever or trying to ride a bike where people shouldn't ride bikes.
 
 # SKILLS SECTION
 # show_skills_card:
