@@ -1,0 +1,8 @@
+COPY FOR MY ONLINE PRESENCES:
+Name: Brandan Foster
+Handle: RealDogDad
+Location: PacNorWest, USA
+Title: Applications Developer
+Tagline: I'm a newly graduated Applications Developer and USMC Veteran looking for an opportunity to learn as much as possible about software development.
+Intro:
+I am a newly graduated Applications Developer and former Marine actively seeking opportunities to learn and grow. I am most interested in Infrastructure as Code and Cloud Technologies. I thoroughly enjoy shipping new mobile apps and designing data-driven websites.

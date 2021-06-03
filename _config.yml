@@ -36,9 +36,9 @@ twitter_username: Real_Dog_Dad
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: RealDogDad
+about_me_title: A bit about me
 # about_me_description: This will be displayed under the title.
-about_me_description: is all of the above plus some. He loves his truck, camping and bonfires. If you can find him in his basement obsessively coding his latest project, tweaking or tuning his bike or pc, he is probably out in the woods walking forever or trying to ride a bike where people shouldn't ride bikes.
+about_me_description: I am a newly graduated Applications Developer and former Marine actively seeking opportunities to learn and grow in Pacific Northwest. I am most interested in Infrastructure as Code and Cloud Technologies. I thoroughly enjoy shipping new mobile apps and designing data-driven websites.
 
 # SKILLS SECTION
 # show_skills_card:
