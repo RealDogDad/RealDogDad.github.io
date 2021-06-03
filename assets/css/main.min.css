@@ -66,12 +66,15 @@ a:hover {
 }
 .neumorphism-button {
     box-shadow: inset 2px 2px 4px #3a3747, inset -2px -2px 4px #4e4a60;
+    background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);
 }
 .neumorphism-card {
     box-shadow: inset 2px 2px 4px #3a3747, inset -2px -2px 4px #4e4a60;
+    background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);
 }
 .neumorphism-card-big {
     box-shadow: 5px 5px 4px #3a3747, -5px -5px 4px #4e4a60;
+    background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);
 }
 #preloader {
     -ms-flex-align: center;
