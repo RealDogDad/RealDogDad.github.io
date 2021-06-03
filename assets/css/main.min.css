@@ -244,7 +244,7 @@ a:hover {
 }
 @keyframes c {
     0% {
-        stroke: rgb(0, 255, 0);
+        stroke: #e3dfff;
         stroke-dasharray: 510;
         stroke-width: 0.5rem;
     }
@@ -256,22 +256,22 @@ a:hover {
 }
 @keyframes d {
     to {
-        stroke: rgb(0, 255, 0);
+        stroke: #e3dfff;
     }
 }
 @keyframes e {
     to {
-        stroke: rgb(0, 255, 0);
+        stroke: #e3dfff;
     }
 }
 @keyframes f {
     to {
-        stroke: rgb(0, 255, 0);
+        stroke: #e3dfff;
     }
 }
 @keyframes g {
     to {
-        stroke: rgb(0, 255, 0);
+        stroke: #e3dfff;
     }
 }
 #skills {
