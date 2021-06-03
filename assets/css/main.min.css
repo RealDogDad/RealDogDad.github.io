@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
 html {
-    background: #3d3a4b;
+    background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);;
     color: #e3dfff;
     font-family: Raleway, sans-serif;
     font-size: 1rem;
@@ -224,7 +224,7 @@ a:hover {
     animation: b 1s ease-in-out forwards, e 1s linear forwards;
 }
 .landing-icons .email:hover .social-svg {
-    fill: #bf00ff;
+    fill: #505264;
 }
 .landing-icons .linkedin:hover .circle {
     animation: b 1s ease-in-out forwards, f 1s linear forwards;

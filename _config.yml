@@ -11,10 +11,14 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: RealDogDad
+username: Brandan Foster
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Applications Developer
+typing_text_1: Mountain Biker
+typing_text_2: Dog Dad
+typing_text_3: PC Gamer
+typing_text_4: Life Long Learner
 # email: Your E-Mail address for the email button.
 email: brandan@getfoster.net
 # For every social button you want to display, set your username or userid
