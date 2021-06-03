@@ -73,13 +73,13 @@ a:hover {
     background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);
 }
 .neumorphism-card-big {
-    box-shadow: 5px 5px 4px #3a3747, -5px -5px 4px #4e4a60;
+    box-shadow: inset 5px 5px 4px #3a3747, inset -5px -5px 4px #4e4a60;
     background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);
 }
 #preloader {
     -ms-flex-align: center;
     align-items: center;
-    background: #3d3a4b;
+    background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);
     display: -ms-flexbox;
     display: flex;
     height: 100%;
@@ -139,7 +139,7 @@ a:hover {
     }
 }
 .footer {
-    background: #3d3a4b;
+    background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);
     color: #e3dfff;
     margin: 0.5rem;
     padding: 1rem;
