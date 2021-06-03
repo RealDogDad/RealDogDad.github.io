@@ -28,8 +28,8 @@ a:hover {
     color: #e3dfff;
 }
 .highlight-title {
-    color: #3d3a4b;
-    text-shadow: 0.25rem 0.25rem 0.25rem #937666;
+    color: #e3dfff;
+    text-shadow: 0.25rem 0.25rem 0.25rem #e7e3ff;
 }
 .highlight-link {
     box-shadow: inset 0 -0.125rem 0 #000;
@@ -65,8 +65,8 @@ a:hover {
     text-align: justify;
 }
 .neumorphism-button {
-    background: linear-gradient(145deg, hsla(240, 2%, 40%, 0.15) 15%, rgba(33, 33, 33, 0.4) 80%);
-    box-shadow: -4px -3px 2px 0 hsla(0, 0%, 98%, 0.13), 4px 4px 2px 0 rgba(0, 0, 0, 0.4);
+    background: #3d3a4b;
+    box-shadow: -4px -3px 2px 0 #4e4a60, 4px 4px 2px 0 #3a3747;
 }
 .neumorphism-card {
     box-shadow: inset 2px 2px 4px #000, inset -2px -2px 4px #3d3a4b;
