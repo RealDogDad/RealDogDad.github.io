@@ -329,7 +329,8 @@ a:hover {
     position: relative;
 }
 .timeline-wrapper .timeline:before {
-    background: linear-gradient(180deg, #f3f3f3 0, #d5d5d5 8%, #d5d5d5 92%, #f3f3f3);
+    box-shadow: inset 2px 2px 4px #3a3747, inset -2px -2px 4px #4e4a60;
+    background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);
     content: " ";
     height: 100%;
     left: 50%;
