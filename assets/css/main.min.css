@@ -329,8 +329,6 @@ a:hover {
     position: relative;
 }
 .timeline-wrapper .timeline:before {
-    box-shadow: inset 2px 2px 4px #3a3747, inset -2px -2px 4px #4e4a60;
-    background: linear-gradient(145deg, rgba(61, 58, 75, 0.15) 15%, rgba(78,74,96,0.80) 80%);
     content: " ";
     height: 100%;
     left: 50%;
@@ -343,7 +341,7 @@ a:hover {
     padding: 1rem 0;
 }
 .timeline-wrapper .hexagon {
-    background: #d3c0cd;
+    /* background: #d3c0cd; */
     height: 0.5rem;
     left: 0;
     margin-left: auto;
@@ -376,7 +374,7 @@ a:hover {
     text-align: center;
 }
 .timeline-wrapper .flag {
-    background: #3d3a4b;
+    /* background: #3d3a4b; */
     border-radius: 0.5rem;
     font-weight: 600;
     padding: 0.25rem 0.5rem;
