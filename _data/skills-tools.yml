@@ -40,6 +40,9 @@
 
 - name: Apache Maven
   weight: 2
+  
+- name: Cloud-based Mac/iOS
+  weight: 3
 
 - name: Apache Ant
   weight: 2
