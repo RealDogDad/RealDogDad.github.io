@@ -38,7 +38,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: A bit about me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a newly graduated Applications Developer and former Marine actively seeking opportunities to learn and grow in the Pacific Northwest. I am most interested in Infrastructure as Code and Cloud Technologies. I thoroughly enjoy shipping new mobile apps and designing data-driven websites. On my off-time I raise my dogs, build gaming PCs and ride my mountain bike.
+about_me_description: Pronouns: He/Him. I am a newly graduated Applications Developer and former Marine actively seeking opportunities to learn and grow in the Pacific Northwest. I am most interested in Infrastructure as Code and Cloud Technologies. I thoroughly enjoy shipping new mobile apps and designing data-driven websites. On my off-time I raise my dogs, build gaming PCs and ride my mountain bike.
 
 # SKILLS SECTION
 # show_skills_card:
