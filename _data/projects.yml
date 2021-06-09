@@ -15,7 +15,7 @@
 
 - name: Mōb
   descr: "Mōb is a highly-effective movement system designed by sports chiropractor, Dr. Patrick K. Silva, to restore and enhance functional mobility - no sweat or equipment required."
-  demo: https://select.astroandrew.com/MOB/
+  demo: https://app.mobtotalbody.com/
   tags:
     - tag: Xamarin
     - tag: Crossplatform
