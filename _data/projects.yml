@@ -33,3 +33,7 @@
 - name: Cloud Standup and Testing
   descr: "A project to demonstrate the stand up of a cloud application, and testing utilizing Nordstrom's Serverless Artillery"
   demo: https://github.com/North-Seattle-College/ad440-winter2021-tuesday-repo
+
+- name: OWI Squad Server (and Modding)
+  descr: "A dedicated Squad Server hosted by awn.gg where I try out my Squad Mods that are under development."
+  demo: <a href="https://squad-servers.com/server/18255/"><img src="https://squad-servers.com/server/18255/banners/banner-1.png" border="0"></a>
