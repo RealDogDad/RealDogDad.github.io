@@ -17,6 +17,16 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Systems Analyst @ StayPineapple Hotels
+  title-url: https://www.staypineapple.com/
+  date: Jul 2021 - Present
+  subtitle: Data & Systems Analysis & Reporting
+  tags:
+    - tag: Tableau
+    - tag: MS SSIS
+    - tag: SQL
+  timeline-side: left
+
 - title: Mōb
   title-url: https://app.mobtotalbody.com/
   date: Sep 2020 - Present
