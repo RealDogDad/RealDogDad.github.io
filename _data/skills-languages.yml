@@ -9,7 +9,7 @@
   weight: 5
 
 - name: JavaScript
-  weight: 4
+  weight: 5
 
 - name: Python
   weight: 3
@@ -28,5 +28,19 @@
 
 - name: YAML/XAML
   weight: 1
+
+- name: R
+  weight: 3
+
+- name: SQL (Agnostic)
+  weight: 5
+
+- name: SQLite3
+  weight: 4
+
+- name: Angular
+  weight: 1
+
+
 
 

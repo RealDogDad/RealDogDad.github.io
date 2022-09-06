@@ -30,4 +30,13 @@
   weight: 2
 
 - name: Angular
+  weight: 4
+
+- name: LAMP
   weight: 1
+
+- name: LEMP
+  weight: 2
+
+- name: OpenLiteSpeed (Nodejs & Docker)
+  weight: 3
