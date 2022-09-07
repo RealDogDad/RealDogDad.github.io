@@ -14,16 +14,11 @@ baseurl: ""
 username: Brandan Foster (He/Him/His)
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Applications Developer
-typing_text_1: Mountain Biker
-typing_text_2: USMC Veteran
-typing_text_3: PC Builder
-typing_text_4: Dog Dad
-typing_text_5: Systems Analyst
-typing_text_6: Data Engineer
-typing_text_7: TTRPG Enthusiast
-typing_text_8: Business Intelligence Analyst
-typing_text_9: I.T. Project Manager
+typing_text: One
+typing_text_1: Two
+typing_text_2: Three
+typing_text_3: Four
+typing_text_4: Five
 
 # email: Your E-Mail address for the email button.
 email: brandan@getfoster.net
