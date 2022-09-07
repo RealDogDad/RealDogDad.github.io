@@ -20,7 +20,7 @@
 - name: C#
   weight: 2
 
-- name: SQL
+- name: MSSQL
   weight: 3
 
 - name: HTML
@@ -32,7 +32,7 @@
 - name: R
   weight: 3
 
-- name: SQL (Agnostic)
+- name: MySQL
   weight: 5
 
 - name: SQLite3
@@ -40,6 +40,9 @@
 
 - name: Angular
   weight: 1
+
+- name: T-SQL
+  weight: 4
 
 
 

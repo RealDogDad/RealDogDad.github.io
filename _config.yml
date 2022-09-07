@@ -21,9 +21,10 @@ typing_text_3: PC Builder
 typing_text_4: Dog Dad
 typing_text_5: Systems Analyst
 typing_text_6: Data Engineer
-typing_text_6: Terrible Cook
-typing_text_6: Business Intelligence Analyst
-typing_text_6: I.T. Project Manager
+typing_text_7: TTRPG Enthusiast
+typing_text_8: Business Intelligence Analyst
+typing_text_9: I.T. Project Manager
+
 # email: Your E-Mail address for the email button.
 email: brandan@getfoster.net
 # For every social button you want to display, set your username or userid
@@ -55,7 +56,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: false
+show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
