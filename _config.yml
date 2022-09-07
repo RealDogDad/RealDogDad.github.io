@@ -59,7 +59,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://docs.google.com/document/d/e/2PACX-1vSgikMzEYrH8pfLUDW9nd-0AGpCG9RNteHx9aQ-Xh3CnJHQ1YhiwqpRoXRyb-n6wUJWfKR60_QxXHZ_/pub
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -97,7 +97,7 @@ projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
   # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: stars
+  sort_by: time
   exclude:
     # archived:
     # > setting this to true, will exclude archived repositories
@@ -109,14 +109,17 @@ projects:
     forks: false
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    # - repo1-to-be-excluded
-    # - repo2-to-be-excluded
+     - realdogdad
+     - ad410-5212
+     - winter2021-tuesday-repo
+     - winter2021-thursday-repo
+     - csc142
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "G-4RRJ7SPK4F"
+  id: ""
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
