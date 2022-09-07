@@ -11,7 +11,7 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Brandan Foster
+username: Brandan Foster (He/Him/His)
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Applications Developer
@@ -19,6 +19,11 @@ typing_text_1: Mountain Biker
 typing_text_2: USMC Veteran
 typing_text_3: PC Builder
 typing_text_4: Dog Dad
+typing_text_5: Systems Analyst
+typing_text_6: Data Engineer
+typing_text_6: Terrible Cook
+typing_text_6: Business Intelligence Analyst
+typing_text_6: I.T. Project Manager
 # email: Your E-Mail address for the email button.
 email: brandan@getfoster.net
 # For every social button you want to display, set your username or userid
@@ -29,7 +34,6 @@ codepen_username: RealDogDad
 dev_username: RealDogDad
 linkedin_username: RealDogDad
 twitter_username: Real_Dog_Dad
-
 # ABOUT ME SECTION
 # show_aboutme_card:
 # > setting this to true, will display the About Me section
@@ -38,8 +42,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: A bit about me
 # about_me_description: This will be displayed under the title.
-about_me_description: "Pronouns: He/Him. I am a newly graduated Applications Developer and former Marine actively seeking opportunities to learn and grow in the Pacific Northwest. I am most interested in Infrastructure as Code and Cloud Technologies. I thoroughly enjoy shipping new mobile apps and designing data-driven websites. On my off-time I raise my dogs, build gaming PCs and ride my mountain bike."
-
+about_me_description: "Currently assisting Pineapple Hospitality adopt modern data practices in an effort to prepare for the cloud."
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -52,7 +55,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
