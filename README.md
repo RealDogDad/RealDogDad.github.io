@@ -4,6 +4,6 @@
 [![Twitter realdogdad](https://img.shields.io/badge/Twitter-@real_dog_dad-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/real_dog_dad)
 [![GitHub RealDogDad](https://img.shields.io/badge/GitHub-@RealDogDad-181717?style=for-the-badge&logo=github)](https://github.com/RealDogDad)
 [![StackOverflow RealDogDad](https://img.shields.io/badge/StackOverFlow-@RealDogDad-181717?style=for-the-badge&logo=stackoverflow)](https://github.com/RealDogDad)
-[![Dev.to RealDogDad](https://img.shields.io/badge/Devto-@RealDogDad-181717?style=for-the-badge&logo=devto)](https://dev.to/realdogdad)
+[![Dev.to RealDogDad](https://img.shields.io/badge/Dev.to-@RealDogDad-181717?style=for-the-badge&logo=dev.to)](https://dev.to/realdogdad)
 [![Codepen.io RealDogDad](https://img.shields.io/badge/Codepen-@RealDogDad-181717?style=for-the-badge&logo=codepen)](https://codepen.io/RealDogDad)
 [![Youtube RealDogDad](https://img.shields.io/badge/Youtube-@RealDogDad-181717?style=for-the-badge&logo=youtube)](https://www.youtube.com/realdogdad)
