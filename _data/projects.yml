@@ -12,16 +12,16 @@
 #     - tag: Express
 #     - tag: AngularJS
 #     - tag: Node
-- name: Nyarknottir
-  descr: "A custom-made Valehiem dedicated server using Digital Ocean."
-  demo: http://137.184.8.212/
+- name: Random Article Generator (Placeholder for bigger things to come)
+  descr: "A serverless nodejs app using DigitalOcean."
+  demo: http://app.realdogdad.dev
   tags:
-    - tag: Cloud Vendor
-    - tag: SteamCMD
-    - tag: Linux
-    - tag: NGINX
+    - tag: DigitalOcean
+    - tag: Serverless
+    - tag: NodeJS
+    - tag: Javascript
 
-- name: Mōb
+- name: Mōb (Refactoring)
   descr: "Mōb is a highly-effective movement system designed by sports chiropractor, Dr. Patrick K. Silva, to restore and enhance functional mobility - no sweat or equipment required."
   demo: https://app.mobtotalbody.com/
   tags:
@@ -38,10 +38,6 @@
     - tag: SQLlite3
     - tag: Android
 
-- name: Cloud Standup and Testing
+- name: Cloud Standup and Testing for Serverless Artillery
   descr: "A project to demonstrate the stand up of a cloud application, and testing utilizing Nordstrom's Serverless Artillery"
   demo: https://github.com/North-Seattle-College/ad440-winter2021-tuesday-repo
-
-- name: OWI Squad Server (and Modding)
-  descr: "A dedicated Squad Server hosted by awn.gg where I try out my Squad Mods that are under development."
-  demo: "https://squad-servers.com/server/18255/"
