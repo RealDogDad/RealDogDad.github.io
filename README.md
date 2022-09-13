@@ -7,3 +7,4 @@
 [![Dev.to RealDogDad](https://img.shields.io/badge/Dev.to-@RealDogDad-181717?style=for-the-badge&logo=dev.to)](https://dev.to/realdogdad)
 [![Codepen.io RealDogDad](https://img.shields.io/badge/Codepen-@RealDogDad-181717?style=for-the-badge&logo=codepen)](https://codepen.io/RealDogDad)
 [![Youtube RealDogDad](https://img.shields.io/badge/Youtube-@RealDogDad-181717?style=for-the-badge&logo=youtube)](https://www.youtube.com/realdogdad)
+[![MidJourney RealDogDad](https://img.shields.io/badge/MidJourney-@RealDogDad-181717?style=for-the-badge&logo=midjourney)](https://www.midjourney.com/app/users/277988596500398082/)
