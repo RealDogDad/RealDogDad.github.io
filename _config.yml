@@ -18,7 +18,9 @@ typing_text: Systems Analyst
 typing_text_1: Software Developer
 typing_text_2: Mountain Biker
 typing_text_3: USMC Veteran 
-typing_text_4: TTRPG & Video Gamer
+typing_text_4: Game Modder
+typing_text_5: 3D Artist
+typing_text_6: Cannabis Enthusiast
 
 # email: Your E-Mail address for the email button.
 email: brandan@getfoster.net
@@ -38,7 +40,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: A bit about me
 # about_me_description: This will be displayed under the title.
-about_me_description: "Designing, documenting and implementing data applications utilizing MySQL 8, Tableau (Prep and Server), and cloud technologies to modenize Staypineapple's approach to data culture. I am applying modern techniques of data lifecycle management to develop a high performance hospitality data model and data gorvernance program."
+about_me_description: "A technology evangelist with proven experience in Data Applications and Systems Monitoring and a penchant for clean, extensible application design."
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
